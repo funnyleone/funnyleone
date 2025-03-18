@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Marketing Scientist / CS Engineer
+### Marketing Scientist / CS Engineer
 🔭 Machine learning drove my marketing wins—targeted customers with precision for huge brands.<br>✨ I’m looking to collaborate on retail ML models or consumer data pipelines.<br>🤝 I’m looking for help with content creation to share my learnings.<br>🌱 I’m currently learning ML for retail and data pipelines for consumer brands.<br>💬 Ask me about using ML to sell products or boost campaign ROI.<br>⚡ Fun fact: My best campaign sold so well, I almost bought the product myself.
 
 
