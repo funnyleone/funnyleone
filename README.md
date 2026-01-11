@@ -1,4 +1,4 @@
-# About:
+## About:
 Building AI at American Express.
 Testflight Bricks (getbricks.ai)
 
